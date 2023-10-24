@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DressDukan</string>
+    <string name="title">Let’s Choice \n <b>Your Own Style</b></string>
+    <string name="NoAccount">Don’t have an account? <font color="#FF0000">Sign Up</font></string>
+    <string name="HaveAccount">Already have an account? <font color="#FF0000">Login</font></string>
+    <string name="title_activity_buttom">buttom</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_favorite">Favorite</string>
+</resources>
